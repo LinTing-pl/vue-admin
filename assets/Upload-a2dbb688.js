@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as _}from"./index-a3624ddb.js";const o={},t={class:"content-container"};function n(a,s){return c(),_("div",t)}const d=e(o,[["render",n],["__scopeId","data-v-45630ca6"]]);export{d as default};
