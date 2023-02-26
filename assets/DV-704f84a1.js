@@ -1,0 +1,1 @@
+import{d as e,c as t,a,b as s,o,_}from"./index-10cd27ae.js";const c=""+new URL("data-610bb364.html",import.meta.url).href,n={ref:"main",class:"content-container"},r=["src"],d=e({__name:"DV",setup(f){return(m,p)=>(o(),t("div",n,[a("iframe",{src:s(c),frameborder:"0"},null,8,r)],512))}});const l=_(d,[["__scopeId","data-v-9aec1df0"]]);export{l as default};
