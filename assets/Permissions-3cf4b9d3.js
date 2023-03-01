@@ -1,0 +1,1 @@
+import{_ as e,o as s,c}from"./index-463adb68.js";const _={},n={class:"content-container"};function o(t,r){return s(),c("div",n,"敬请期待后续开发")}const d=e(_,[["render",o],["__scopeId","data-v-db5b285c"]]);export{d as default};
